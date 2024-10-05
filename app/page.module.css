@@ -1,0 +1,12 @@
+.container{
+    max-width: 70%;
+    margin: auto;
+}
+.btn{
+    background: black;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 9px;
+    box-shadow: 0 0 7px 0 #000;
+}

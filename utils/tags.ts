@@ -1,0 +1,4 @@
+export enum REVALIDATE_TAGS {
+    USERS = 'USERS',
+    PRODUCTS = 'PRODUCTS'
+}
